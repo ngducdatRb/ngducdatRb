@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nguyen Duc Dat</h1>
 <h3 align="center">A student at the University of Engineering and Technology, VNU</h3>
-
+<img align="right" alt="Robot" width="400" src="https://lh4.googleusercontent.com/proxy/fvf-3amxUMHtjL9LQbiadGdvwUjjEM4GlcwtUCSjCMQGhSyCorvh-5n15eapHPoIHyWtlDF1SXCwrFZrnYig">
 - 📫 How to reach me **ngducdat.rb@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
