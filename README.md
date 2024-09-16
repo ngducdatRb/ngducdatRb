@@ -15,7 +15,7 @@
 
 - 👯 I’m looking to collaborate on Researching SLAM on Robotics
 
-- 🎯Goal: graduate from university
+- 🎯 Goal: graduate from university
 
 - 📫 How to reach me **ngducdat.rb@gmail.com**
 
