@@ -5,12 +5,6 @@
 <h1 align="center">Hi 👋, I'm Nguyen Duc Dat</h1>
 <h3 align="center">A student at the University of Engineering and Technology, VNU</h3>
 
-###
-
-<img align="right" height="150" src="https://lh4.googleusercontent.com/proxy/fvf-3amxUMHtjL9LQbiadGdvwUjjEM4GlcwtUCSjCMQGhSyCorvh-5n15eapHPoIHyWtlDF1SXCwrFZrnYig" />
-
-###
-
 - ✨ I'm interested in Robotics, AI, Vision
 
 - 👯 I’m looking to collaborate on Researching SLAM on Robotics
