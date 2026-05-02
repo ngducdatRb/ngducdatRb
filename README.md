@@ -34,10 +34,12 @@
   </a>
 </div>
 
+![](https://raw.githubusercontent.com/ngducdatRb/ngducdatRb/main/profile-3d-contrib/profile-night-rainbow.svg)
+
 ###
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+<!-- <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" /> -->
 
 ###
